@@ -1,0 +1,15 @@
+#spacingBetweenListStackAndBt{
+    margin-left: 150px;
+}
+#spacingBetweenBt{
+    margin-bottom: 20px;
+}
+#stylesBt {
+    color: black;
+    background-color: white;
+    width: 110px;
+    height: 40px;
+}
+#spacingInputDialogInsertAt {
+    margin-top: 15px;
+}

@@ -1,0 +1,1 @@
+export const LOAD_DATA_STACK = 'LOAD_DATA_IN_STACK';
